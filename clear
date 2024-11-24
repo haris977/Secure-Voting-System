@@ -1,0 +1,23 @@
+[33mcommit daa73b69bf0b7004c0c5a6e74115f6846ccf9d5d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ali Zilani <ma21chb0b43@student.nitw.ac.in>
+Date:   Sun Oct 13 11:49:50 2024 +0530
+
+    created Model for User and Candidates
+
+[33mcommit a8aa79ccf617d3ae3b516759ac51253df43e9561[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ali Zilani <ma21chb0b43@student.nitw.ac.in>
+Date:   Sun Oct 13 10:46:26 2024 +0530
+
+    stop tacking .env
+
+[33mcommit 2e8c0b11586125ca3818db355cb7e78d5f574e60[m
+Author: Ali Zilani <ma21chb0b43@student.nitw.ac.in>
+Date:   Sun Oct 13 10:40:39 2024 +0530
+
+    Maintained file and delete unnecessay file
+
+[33mcommit 501d915d1c201fa099bb74fa02b60bf5bcd4bfd0[m
+Author: Ali Zilani <ma21chb0b43@student.nitw.ac.in>
+Date:   Thu Aug 8 15:21:47 2024 +0530
+
+    set up server and connected to mongo db
